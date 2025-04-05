@@ -5,10 +5,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/anderson-riva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anderson-riva" height="30" width="40" /></a>
 </p>
-<a href="mailto:andersonrivaramirez2@gmail.com" class="jroApmVKUlGLIICbmsRaowbMkGzhHvCFrDfHyo link-without-visited-state t-14" target="_blank" rel="noopener noreferrer">
-              andersonrivaramirez2@gmail.com
-            </a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anderson-riva" height="30" width="40" /></a>
-</p>
+<a href="mailto:andersonrivaramirez2@gmail.com" class="jroApmVKUlGLIICbmsRaowbMkGzhHvCFrDfHyo link-without-visited-state t-14" target="_blank" rel="noopener noreferrer"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anderson-riva" height="30" width="40" /></a>
+</p> </a>
 
 <h3 align="left">Conocimiento en Lenguaje de Programacion:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
