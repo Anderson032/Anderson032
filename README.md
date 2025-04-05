@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/anderson-riva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anderson-riva" height="30" width="40" /></a>
-<a href="mailto:andersonrivaramirez2@gmail.com" class="jroApmVKUlGLIICbmsRaowbMkGzhHvCFrDfHyo link-without-visited-state t-14" target="_blank" rel="noopener noreferrer"> <img align="center" src="https://www.flaticon.es/icono-gratis/gmail_732200" height="30" width="40" /></a>
+<a href="mailto:andersonrivaramirez2@gmail.com" class="jroApmVKUlGLIICbmsRaowbMkGzhHvCFrDfHyo link-without-visited-state t-14" target="_blank" rel="noopener noreferrer"> <img align="center" src="https://cdn-icons-png.flaticon.com/128/732/732200.png" height="30" width="40" /></a>
 </p> </a>
 
 <h3 align="left">Conocimiento en Lenguaje de Programacion:</h3>
