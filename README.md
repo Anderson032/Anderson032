@@ -5,7 +5,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/anderson-riva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anderson-riva" height="30" width="40" /></a>
 </p>
-<a href="https://mailto:andersonrivaramirez2@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anderson-riva" height="30" width="40" /></a>
+<a href="mailto:andersonrivaramirez2@gmail.com" class="jroApmVKUlGLIICbmsRaowbMkGzhHvCFrDfHyo link-without-visited-state t-14" target="_blank" rel="noopener noreferrer">
+              andersonrivaramirez2@gmail.com
+            </a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anderson-riva" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Conocimiento en Lenguaje de Programacion:</h3>
